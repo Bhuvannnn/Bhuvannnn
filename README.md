@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Student at University of Southern California
 -----------------------------------------------------
 
-Data Analyst aspirant with 1 year of experience in data-driven roles. Proven expertise in programming custom LSTM neural networks, backtesting and optimizing system parameters, as demonstrated through internships at Prompt Softech and Tornado Computers. Proficient in scripting languages and predictive maintenance through neural networks. Eagerly anticipating a summer internship to embark on exciting, real-world projects.
+CS aspirant with 2 year of experience in data-driven roles. Proven expertise in programming custom LSTM neural networks, backtesting and optimizing system parameters, as demonstrated through internships at Prompt Softech and Tornado Computers. Proficient in scripting languages and predictive maintenance through neural networks. Eagerly anticipating a Fall Co-op to embark on exciting, real-world projects.
 
 * 🌍  I'm based in Los Angeles, USA
 * ✉️  You can contact me at [bhuvanshah288@gmail.com](mailto:bhuvanshah288@gmail.com)
-* 🧠  I'm learning NLP and Deep Learning
+* 🧠  I'm learning Gen AI and NLP
 * 🤝  I'm open to collaborating on Projects and Research Papers
 
 ### Skills
