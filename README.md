@@ -5,6 +5,7 @@ Graduate Student at University of Southern California
 -----------------------------------------------------
 
 Los Angeles, CA | Graduate Student, University of Southern California
+
 CS enthusiast with hands-on experience in software engineering and data science. I build scalable systems and intelligent solutions-recently leading projects in knowledge graphs, real-time analytics, and predictive modeling. My work spans full-stack development, machine learning, and cloud-native deployments.
 
 * Actively Seeking for Full time SWE and Data opportunities in SWE, Data Science, or ML for 2025
