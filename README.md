@@ -4,12 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Student at University of Southern California
 -----------------------------------------------------
 
-CS aspirant with 2 year of experience in SWE and data-driven roles. Proven expertise in programming custom LSTM neural networks, backtesting and optimizing system parameters, as demonstrated through internships at Prompt Softech and Tornado Computers. Proficient in scripting languages and predictive maintenance through neural networks. Eagerly anticipating a Fall Co-op to embark on exciting, real-world projects.
+Los Angeles, CA | Graduate Student, University of Southern California
+CS enthusiast with hands-on experience in software engineering and data science. I build scalable systems and intelligent solutions-recently leading projects in knowledge graphs, real-time analytics, and predictive modeling. My work spans full-stack development, machine learning, and cloud-native deployments.
 
-* 🌍  I'm based in Los Angeles, USA
-* ✉️  You can contact me at [bhuvanshah288@gmail.com](mailto:bhuvanshah288@gmail.com)
-* 🧠  I'm building on Gen AI and NLP
-* 🤝  I'm open to collaborating on Projects and Research Papers
+* Seeking Fall 2025 Co-op opportunities in SWE, Data Science, or ML
+
+* Skills: Python, JavaScript, React, Node.js, SQL, ML/DL (LSTM, Transformers), GCP, AWS, Docker, Kubernetes
+
+* Projects: Knowledge graph apps, real-time collaboration tools, predictive analytics, and more
+
+* bhuvanshah288@gmail.com | [Portfolio]([url](https://bhuvannnn.github.io/tech-portfolio/)) | [LinkedIn]([url](https://www.linkedin.com/in/bhuvanshah/))
+
+Let's connect for impactful projects, research, or collaboration!
 
 ### Skills
 
