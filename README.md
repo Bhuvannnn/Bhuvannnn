@@ -13,7 +13,7 @@ CS enthusiast with hands-on experience in software engineering and data science.
 
 * Projects: Knowledge graph apps, real-time collaboration tools, predictive analytics, and more
 
-* bhuvanshah288@gmail.com | [Portfolio]([url](https://bhuvannnn.github.io/tech-portfolio/)) | [LinkedIn]([url](https://www.linkedin.com/in/bhuvanshah/))
+* bhuvanshah288@gmail.com | [Portfolio](https://bhuvannnn.github.io/tech-portfolio/) | [LinkedIn](https://www.linkedin.com/in/bhuvanshah/)
 
 Let's connect for impactful projects, research, or collaboration!
 
