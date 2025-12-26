@@ -22,22 +22,34 @@ I care about correctness, performance, and systems that don’t fall apart under
 
 ---
 
+### GitHub Activity
+
+<a href="https://github.com/Bhuvannnn">
+  <img height="200" align="center"
+    src="https://github-readme-stats-fast.vercel.app/api?username=bhuvannnn&hide_title=true&show_icons=true" />
+</a>
+
+
+---
+
 ### Tech Stack
 
 **Languages**  
-Python, Java, C++, JavaScript, SQL, C#, TypeScript
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /> </p>
 
 **Backend & APIs**  
-Spring Boot, FastAPI, Node.js, Express, REST, GraphQL
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" /> </p>
 
 **Machine Learning & AI**  
-PyTorch, TensorFlow, Transformers, LSTM, LangChain, FAISS, NLP, Feature Engineering
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" /> </p> <p> 🧠 Transformers · LSTM · LangChain · FAISS · NLP · Feature Engineering </p>
 
 **Data & Streaming**  
-PostgreSQL, MongoDB, Redis, Neo4j, Kafka, Spark, Airflow, Hadoop
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/hadoop/hadoop-original-wordmark.svg" width="48" />
+ </p>
 
 **Cloud & DevOps**  
-AWS, GCP, Docker, Kubernetes, Jenkins, CI/CD, Git, Linux
+<p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" /> </p>
 
 ---
 
@@ -55,16 +67,6 @@ AWS, GCP, Docker, Kubernetes, Jenkins, CI/CD, Git, Linux
 **Data Scientist Intern — Prompt Softech**  
 - Deployed LSTM-based trading models with 93% accuracy  
 - Built scalable ML pipelines combining market data and NLP-based sentiment  
-
----
-
-### GitHub Activity
-
-<a href="https://github.com/Bhuvannnn">
-  <img height="200" align="center"
-    src="https://github-readme-stats-fast.vercel.app/api?username=bhuvannnn&hide_title=true&show_icons=true" />
-</a>
-
 
 ---
 
