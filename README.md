@@ -61,7 +61,7 @@ AWS, GCP, Docker, Kubernetes, Jenkins, CI/CD, Git, Linux
 ### GitHub Activity
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Bhuvannnn&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default](https://github-readme-stats-fast.vercel.app/api?username=bhuvannnn&show_icons=true&title_color=FFEB3B&text_color=FFEB3B&icon_color=FFEB3B&cache_seconds=0)" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvannnn&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default" height="150" />
 </p>
 
 ---
